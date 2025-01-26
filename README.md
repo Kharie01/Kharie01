@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kharie01
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning mysql, javafx, figma, and java
+- >< Skills[] = {"CSS", "HTML", "Javascript", "C++"};
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me kharieladignon01@gmail.com
 - 😄 Pronouns: 
