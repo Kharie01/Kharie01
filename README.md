@@ -43,7 +43,7 @@ currently_learning: ["REACT", "PYTHON", "MYSQL", "JAVA"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kharie01&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharie01&layout=compact&theme=tokyonight" />
 </p>
