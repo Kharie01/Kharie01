@@ -47,6 +47,3 @@ currently_learning: ["REACT", "PYTHON", "MYSQL", "JAVA"]
   <img src="https://github-readme-stats.vercel.app/api?username=Kharie01&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharie01&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://kharie01.github.io/snk/github-contribution-grid-snake.svg" />
-</p>
