@@ -11,5 +11,14 @@ name: Kharie Joi B. Ladignon
 located_in: Luzon, Philippines
 occupation: Student
 education:
-  - Bachelor of Science in Information Technology
-  - Batch 2027
+  [
+    "Bachelor of Science in Information Technology"
+    "Batch 2027"
+  ]
+fields_of_interests:
+  [
+    "Web Development"
+    "UI/UX"
+    "Back-end"
+    "Database"
+  ]
