@@ -22,3 +22,8 @@ fields_of_interests:
     "Back-end"
     "Database"
   ]
+technical_backgound:
+  [
+    "3rd palce in C++ Competition"
+  ]
+currently_learning: ["REACT", "PYTHON", "MYSQL", "JAVA"]
