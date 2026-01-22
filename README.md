@@ -21,6 +21,8 @@ fields_of_interests:
     "UI/UX"
     "Back-end"
     "Database"
+    "Full Stack"
+    "System Architecture"
   ]
 technical_backgound:
   [
