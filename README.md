@@ -28,7 +28,7 @@ technical_backgound:
   [
     "3rd palce in C++ Competition"
   ]
-currently_learning: ["REACT", "PYTHON", "MYSQL", "JAVA"]
+currently_learning: ["REACT", "PYTHON", "MYSQL", "JAVA", "MONGO DB"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
