@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/notifications/?filter=all)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Kharie01.dev)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharieladignon02@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharieladignon01@gmail.com)
 
 </div>
 
@@ -136,13 +136,7 @@ graph LR
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/notifications/?filter=all)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharieladignon02@gmail.com)
-
-</div>
-
----
-
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharieladignon01@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:000000&height=110&section=footer" alt="footer"/>
 
