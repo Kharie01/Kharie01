@@ -1,15 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Hey%2C%20I'm%20Kharie%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20to%20Collaboration&descAlignY=55&descSize=18&animation=fadeIn" alt="header"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Building+systems+that+scale+%F0%9F%94%A7;Frontend+that+feels+alive+%F0%9F%8E%A8;Backend+that+never+sleeps+%E2%9A%99%EF%B8%8F;Infrastructure+as+code+%E2%98%81%EF%B8%8F;Shipping+every+single+day+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kharie01)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Kharie01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Kharie01.dev)
@@ -50,31 +42,21 @@ const dev = {
 ## ◼ Tech Stack
 
 <div align="center">
-
-### Languages
+  
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-000?style=for-the-badge&logo=framer&logoColor=white)
-
-### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=github-actions&logoColor=white)
-
 </div>
 
 ---
