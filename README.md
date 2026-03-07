@@ -83,17 +83,17 @@ const dev = {
 ## ◼ GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kharie01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="GitHub Stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kharie01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="GitHub Stats"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=placeholder&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=kharie02&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak"/>
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kharie01&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=placeholder&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&hide_border=true" alt="Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kharie01&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&hide_border=true" alt="Contribution Graph"/>
 
 ---
 
