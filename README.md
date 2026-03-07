@@ -80,7 +80,10 @@ const dev = {
 ---
 
 ## ◼ GitHub Analytics
-
+<div align="center">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kharie01&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak"/>
+</div>
+<br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kharie01&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&hide_border=true" alt="Contribution Graph"/>
 
 ---
