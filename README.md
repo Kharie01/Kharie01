@@ -81,17 +81,6 @@ const dev = {
 
 ## ◼ GitHub Analytics
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kharie01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="GitHub Stats"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharie01&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kharie01&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kharie01&bg_color=000000&color=ffffff&line=555555&point=ffffff&area=true&area_color=222222&hide_border=true" alt="Contribution Graph"/>
 
 ---
@@ -106,47 +95,6 @@ const dev = {
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
-<details>
-<summary><strong>⚙️ Snake setup — click to expand</strong></summary>
-
-Create `.github/workflows/snake.yml` inside your profile repo (`Kharie01/Kharie01`):
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-## ◼ GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kharie01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -209,18 +157,6 @@ Other        ███░░░░░░░░░░░░░░░░░░   2
 3. Add [waka-readme action](https://github.com/athul/waka-readme) to run on schedule
 
 </details>
-
----
-
-## ◼ Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/Web-Repository)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/Role-Based-System)
-
-</div>
-
 ---
 
 ## ◼ Connect
