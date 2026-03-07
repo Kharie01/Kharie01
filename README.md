@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Hey%2C%20I'm%20Kharie%20👋&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20%&descAlignY=55&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Hey%2C%20I'm%20Kharie%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20to%20Collaboration&descAlignY=55&descSize=18&animation=fadeIn" alt="header"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Building+systems+that+scale+%F0%9F%94%A7;Frontend+that+feels+alive+%F0%9F%8E%A8;Backend+that+never+sleeps+%E2%9A%99%EF%B8%8F;Infrastructure+as+code+%E2%98%81%EF%B8%8F;ML+pipelines+in+production+%F0%9F%A4%96;Shipping+every+single+day+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Building+systems+that+scale+%F0%9F%94%A7;Frontend+that+feels+alive+%F0%9F%8E%A8;Backend+that+never+sleeps+%E2%9A%99%EF%B8%8F;Infrastructure+as+code+%E2%98%81%EF%B8%8F;Shipping+every+single+day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/placeholder)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/placeholder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://placeholder.dev)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:placeholder@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kharie01)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Kharie01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Kharie01.dev)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharie@email.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=placeholder&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Kharie01&color=ffffff&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
 
 </div>
 
@@ -25,14 +25,13 @@
 
 ```typescript
 const dev = {
-  name:        "Kharie Joi B. Ladignon",
-  location:    "Remote 🌍",
-  role:        "Student",
-  experience:  "none",
+  name:     "Kharie Joi B. Ladignon",
+  location: "Remote 🌍",
+  role:     "Student & Aspiring Full Stack Developer",
 
   stack: {
     frontend:  ["React", "Angular", "TypeScript", "Tailwind"],
-    backend:   ["Node.js", "Python",],
+    backend:   ["Node.js", "Python", "FastAPI"],
     devops:    ["Docker", "GitHub Actions"],
     databases: ["PostgreSQL", "MongoDB", "Redis"],
   },
@@ -42,7 +41,7 @@ const dev = {
     "LLM-powered developer tooling",
   ],
 
-  openTo:  ["Collaboration"],
+  openTo: ["Collaboration", "Open Source", "Learning Opportunities"],
 };
 ```
 
@@ -72,7 +71,7 @@ const dev = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
+### DevOps
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -84,7 +83,7 @@ const dev = {
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kharie01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="GitHub Stats"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=placeholder&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Top Languages"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kharie01&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -102,12 +101,47 @@ const dev = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/placeholder/placeholder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/placeholder/placeholder/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/placeholder/placeholder/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
+
+<details>
+<summary><strong>⚙️ Snake setup — click to expand</strong></summary>
+
+Create `.github/workflows/snake.yml` inside your profile repo (`Kharie01/Kharie01`):
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
 
 ## ◼ GitHub Trophies
 
@@ -122,45 +156,35 @@ const dev = {
 ```mermaid
 graph LR
     subgraph CLIENT ["◼ Client Layer"]
-        A["Next.js / React\nSSR + CSR"]
-        B["Mobile\nReact Native"]
-    end
-
-    subgraph EDGE ["◼ Edge Layer"]
-        C["CDN\nCloudflare"]
-        D["WAF +\nDDoS Shield"]
+        A["React / Angular\nCSR + SSR"]
     end
 
     subgraph API ["◼ API Layer"]
-        E["API Gateway\n+ Rate Limiter"]
-        F["Auth Service\nJWT / OAuth"]
-        G["Core API\nNode / Go"]
-        H["gRPC\nMicroservices"]
+        B["API Gateway\n+ Rate Limiter"]
+        C["Auth Service\nJWT / OAuth"]
+        D["Core API\nNode.js / FastAPI"]
     end
 
     subgraph DATA ["◼ Data Layer"]
-        I[("PostgreSQL\nPrimary")]
-        J[("Redis\nCache / Queue")]
-        K[("S3\nObject Store")]
+        E[("PostgreSQL\nPrimary")]
+        F[("Redis\nCache")]
+        G[("MongoDB\nDocuments")]
     end
 
-    subgraph ML ["◼ ML Layer"]
-        L["Feature Store\nClickHouse"]
-        M["Model Server\nFastAPI + GPU"]
-        N["MLflow\nTracking"]
+    subgraph INFRA ["◼ Infra Layer"]
+        H["Docker\nContainers"]
+        I["GitHub Actions\nCI/CD"]
     end
 
-    A & B --> C --> D --> E
-    E --> F & G
-    G --> H
-    G --> I & J & K
-    G --> L --> M --> N
+    A --> B
+    B --> C & D
+    D --> E & F & G
+    D --> H --> I
 
     style CLIENT fill:#111,stroke:#444,color:#fff
-    style EDGE   fill:#111,stroke:#444,color:#fff
     style API    fill:#111,stroke:#444,color:#fff
     style DATA   fill:#111,stroke:#444,color:#fff
-    style ML     fill:#111,stroke:#444,color:#fff
+    style INFRA  fill:#111,stroke:#444,color:#fff
 ```
 
 ---
@@ -171,6 +195,9 @@ graph LR
 ```text
 TypeScript   ████████████░░░░░░░░░  11h 44m   44.5 %
 Python       ██████░░░░░░░░░░░░░░░   5h 58m   22.6 %
+JavaScript   ████░░░░░░░░░░░░░░░░░   3h 10m   12.0 %
+CSS          ██░░░░░░░░░░░░░░░░░░░   1h 52m    7.1 %
+Other        ███░░░░░░░░░░░░░░░░░░   2h 30m   13.8 %
 ```
 <!--END_SECTION:waka-->
 
@@ -189,10 +216,12 @@ Python       ██████░░░░░░░░░░░░░░░   5
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/placeholder/flagship-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/placeholder/second-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/flagship-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/second-project)
 
 </div>
+
+> 💡 Replace `flagship-project` and `second-project` with your actual repo names.
 
 ---
 
@@ -202,13 +231,12 @@ Python       ██████░░░░░░░░░░░░░░░   5
 
 ```
   ╔────────────────────────────────────────────────╗
-  │  Open to interesting problems. Let's talk.     │
+  │  Open to collaboration. Let's build together.  │
   ╚────────────────────────────────────────────────╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/placeholder)
-[![Book a Call](https://img.shields.io/badge/Book_a_Call-000?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/placeholder)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:placeholder@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kharie01)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kharie@email.com)
 
 </div>
 
@@ -217,7 +245,6 @@ Python       ██████░░░░░░░░░░░░░░░   5
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:000000&height=110&section=footer" alt="footer"/>
-
 
 ![](https://img.shields.io/badge/Built_with-precision_%26_too_much_coffee-000000?style=for-the-badge&logoColor=white)
 
