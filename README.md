@@ -2,6 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Hey%2C%20I'm%20Kharie%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20to%20Collaboration&descAlignY=55&descSize=18&animation=fadeIn" alt="header"/>
 <br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Kharie01)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Kharie01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Kharie01.dev)
@@ -77,7 +78,7 @@ const dev = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kharie01/Kharie01/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
