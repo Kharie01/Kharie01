@@ -121,23 +121,9 @@ graph LR
 ## ◼ Coding Activity (WakaTime)
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   ████████████░░░░░░░░░  11h 44m   44.5 %
-Python       ██████░░░░░░░░░░░░░░░   5h 58m   22.6 %
-JavaScript   ████░░░░░░░░░░░░░░░░░   3h 10m   12.0 %
-CSS          ██░░░░░░░░░░░░░░░░░░░   1h 52m    7.1 %
-Other        ███░░░░░░░░░░░░░░░░░░   2h 30m   13.8 %
-```
+
 <!--END_SECTION:waka-->
 
-<details>
-<summary><strong>⚙️ WakaTime auto-update setup</strong></summary>
-
-1. Install the [WakaTime plugin](https://wakatime.com/plugins) for your IDE
-2. Add `WAKATIME_API_KEY` as a GitHub Actions secret
-3. Add [waka-readme action](https://github.com/athul/waka-readme) to run on schedule
-
-</details>
 ---
 
 ## ◼ Connect
