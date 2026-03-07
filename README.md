@@ -109,47 +109,10 @@ const dev = {
 
 </div>
 
-<details>
-<summary><strong>⚙️ Snake setup — click to expand</strong></summary>
-
-Create `.github/workflows/snake.yml` inside your profile repo (`username/username`):
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then update the image src in this README to use your real username.
-
-</details>
-
----
-
 ## ◼ GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=placeholder&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kharie01&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -226,8 +189,8 @@ Python       ██████░░░░░░░░░░░░░░░   5
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=placeholder&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/placeholder/flagship-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=placeholder&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/placeholder/second-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/placeholder/flagship-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/placeholder/second-project)
 
 </div>
 
@@ -239,8 +202,7 @@ Python       ██████░░░░░░░░░░░░░░░   5
 
 ```
   ╔────────────────────────────────────────────────╗
-  │  Open to interesting problems. Let's talk.      │
-  │  Consulting · OSS · Talks · Mentorship          │
+  │  Open to interesting problems. Let's talk.     │
   ╚────────────────────────────────────────────────╝
 ```
 
