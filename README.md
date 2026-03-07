@@ -58,7 +58,7 @@ const dev = {
 ---
 
 ## ◼ GitHub Analytics
-<div align="center">
+<div align="center" width="50%" height="50%">
   <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kharie01&theme=github-dark-blue&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak"/>
 </div>
 <br/>
