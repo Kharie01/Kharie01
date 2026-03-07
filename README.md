@@ -216,12 +216,10 @@ Other        ███░░░░░░░░░░░░░░░░░░   2
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/flagship-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/second-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=flagship-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/Web-Repository)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Kharie01&repo=second-project&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)](https://github.com/Kharie01/Role-Based-System)
 
 </div>
-
-> 💡 Replace `flagship-project` and `second-project` with your actual repo names.
 
 ---
 
